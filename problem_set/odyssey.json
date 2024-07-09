@@ -1,0 +1,474 @@
+[
+    {
+        "problem": "Let $S=\\left\\{ 1,2,\\cdots 2024 \\right\\}$, if the set of any $n$ pairwise prime numbers in $S$ has at least one prime number, the minimum value of $n$ is ?",
+        "answer": 16
+    },
+    {
+        "problem": "Let $A_l = (4l+1)(4l+2) \\cdots \\left(4(5^5+1)l\\right)$. Given a positive integer $l$ such that $5^{25l} \\mid A_l$ and $5^{25l+1} \\nmid A_l$, the minimum value of $l$ satisfying these conditions is ?\n\n\\end{problem}\t\n\\noindent",
+        "answer": 3906
+    },
+    {
+        "problem": "Sasha collects coins and stickers, with fewer coins than stickers, but at least 1 coin. Sasha chooses a positive number $t > 1$ (not necessarily an integer). If he increases the number of coins by a factor of $t$, then he will have a total of 100 items in his collection. If he increases the number of stickers by a factor of $t$, then he will have a total of 101 items in his collection. If Sasha originally had more than 50 stickers, then he originally had \\underline{\\hspace{2cm}} stickers.",
+        "answer": 66
+    },
+    {
+        "problem": "Let $n$ be a positive integer. An integer $k$ is called a \"fan\" of $n$ if and only if $0 \\leqslant k \\leqslant n-1$ and there exist integers $x$, $y$, $z \\in \\mathbf{Z}$ such that $x^2+y^2+z^2 \\equiv 0 (\\mathrm{mod} \\, n)$ and $xyz \\equiv k (\\mathrm{mod} \\, n)$. Let $f(n)$ denote the number of fans of $n$. Then f(2020) = ?",
+        "answer": 101
+    },
+    {
+        "problem": "Four positive integers satisfy $a^3=b^2$, $c^5=d^4$, and $c-a=77$. Then, $d-b=$ ?",
+        "answer": 235
+    },
+    {
+        "problem": "The smallest $n$ such that both $3n+1$ and $5n+1$ are perfect squares is ?",
+        "answer": 16
+    },
+    {
+        "problem": "Positive integers $a$, $b$, and $c$ satisfy $a > b > c > 1$, and also satisfy $abc \\mid (ab - 1)(bc - 1)(ca - 1)$. There are \\underline{\\hspace{2cm}} possible sets of $(a, b, c)$.",
+        "answer": 1
+    },
+    {
+        "problem": "There are \\underline{\\hspace{2cm}} sets of positive integers $a \\leq b \\leq c$ such that $ab - c$, $bc - a$, and $ca - b$ are all powers of 2.",
+        "answer": 4
+    },
+    {
+        "problem": "Define the function $f(x) =[x[x]]$, where $[x]$ represents the largest integer not exceeding $x$. For example, $[-2.5] = -3$.For a positive integer $n$, let $a_n$ be the number of elements in the range set of $f(x)$ when $x \\in [0,n)$. Then the minimum value of $\\frac{a_n + 90}{n}$ is ?",
+        "answer": 13
+    },
+    {
+        "problem": "If a positive integer's sum of all its positive divisors is twice the number itself, then it is called a perfect number. If a positive integer $n$ satisfies both $n-1$ and $\\frac{n(n+1)}{2}$ being perfect numbers, then $n=$ ?",
+        "answer": 7
+    },
+    {
+        "problem": "Try to find all prime numbers with the shape $p^p+1$($p$ is a natural number) that have no more than 19 digits and what the sum of these prime numbers is.",
+        "answer": 264
+    },
+    {
+        "problem": "For any positive integer $q_0$, consider a sequence $q_1,q_2,\\cdots,q_n$ defined by $q_i=\\left(q_{i-1}-1\\right)^3+3\\left(i=1,2,\\cdots,n\\right)$. If every $q_i\\left(i=1,2,\\cdots,n\\right)$ is a power of prime, then the maximum possible value of $n$ is ?",
+        "answer": 2
+    },
+    {
+        "problem": "$N$ is a 5-digit number composed of 5 different non-zero digits, and $N$ is equal to the sum of all three digits formed by 3 different digits in these 5 digits, then the sum of all such 5-digit $N$ is ?",
+        "answer": 35964
+    },
+    {
+        "problem": "If the last three digits of a positive integer $n$ cubed are 888, then the minimum value of $n$ is ?",
+        "answer": 192
+    },
+    {
+        "problem": "$a $, $b$ are both two-digit positive integers, $100a+b$ and $201a+b$ are both four-digit perfect squares, then $a+b=$ ?",
+        "answer": 81
+    },
+    {
+        "problem": "For a positive integer $n$, which can be uniquely expressed as the sum of the squares of 5 or fewer positive integers (where two expressions with different summation orders are considered the same, such as $3^2+4^2$ and $4^2+3^2$ are considered the same expression of 25), then the sum of all the $n$ that satisfy the conditions is ?",
+        "answer": 34
+    },
+    {
+        "problem": "Given that the product of the digits of a natural number $x$ is equal to $44x-86868$, and the sum of its digits is a perfect cube. Then the sum of all such natural numbers $x$ is ?",
+        "answer": 1989
+    },
+    {
+        "problem": "Let $\\varphi(n)$ denote the number of natural numbers coprime to and less than $n$. Then, when $\\varphi(pq)=3p+q$, what is the sum of $p$ and $q$?",
+        "answer": 14
+    },
+    {
+        "problem": "Consider the sequence $\\{S_n\\}$ constructed as follows: $S_1=\\{1,1\\}$, $S_2=\\{1,2,1\\}$, $S_3=\\{1,3,2,3,1\\}$, and in general, if $S_k=\\{a_1,a_2,\\cdots,a_n\\}$, then $S_{k+1}=\\{a_1,a_1+a_2,a_2,a_2+a_3,\\cdots,a_{n-1}+a_n,a_n\\}$. What is the number of terms equal to $1988$ in $S_{1988}$?",
+        "answer": 840
+    },
+    {
+        "problem": "For a natural number $n$, let $S(n)$ denote the sum of its digits. For example, $S(611)=6+1+1=8$. Let $a$, $b$, and $c$ be three-digit numbers such that $a+b+c=2005$, and let $M$ be the maximum value of $S(a)+S(b)+S(c)$. How many sets $(a,b,c)$ satisfy $S(a)+S(b)+S(c)=M$?",
+        "answer": 17160
+    },
+    {
+        "problem": "Mutually prime positive integers $p_n, q_n$ satisfy $\\frac{P_n}{q_n}=1+\\frac12+\\frac13+\\cdots+\\frac1n$. The sum of all positive integers $n$ such that $3|p_n$ is ?",
+        "answer": 31
+    },
+    {
+        "problem": "Given $x$ and $y$ are prime numbers. The sum of the values of $y$ in the solutions of the indeterminate equation $x^2-y^2=xy^2-19$ is ?",
+        "answer": 10
+    },
+    {
+        "problem": "The number of non-zero integer pairs $(a,b)$ for which $\\left(a^3+b\\right)\\left(a+b^3\\right)=(a+b)^4$ holds is ?",
+        "answer": 6
+    },
+    {
+        "problem": "If the sum of the digits of a natural number $\\alpha$ equals 7, then $a$ is called an \"auspicious number\". Arrange all \"auspicious numbers\" in ascending order $a_1,a_2,a_3,\\cdots$, if $a_n=2005$, then $a_{5n}$=?",
+        "answer": 52000
+    },
+    {
+        "problem": "The number of integers $n$ in the interval $1\\leq n\\leq10^6$ such that the equation $n=x^y$ has non-negative integer solutions $x,y$, and $x\\neq n$ is ?",
+        "answer": 1111
+    },
+    {
+        "problem": "Let $p$ be a real number. If all three roots of the cubic equation $5x^3 - 5(p+1)x^2 + (71p - 1)x + 1 = 66p$ are natural numbers, then the sum of all possible values of $p$ is ?",
+        "answer": 76
+    },
+    {
+        "problem": "The number of triples of positive integers $(a, b, c)$ satisfying $a^2 + b^2 + c^2 = 2005$ and $a \\leq b \\leq c$ is ?",
+        "answer": 7
+    },
+    {
+        "problem": "The maximum positive integer $k$ that satisfies $1991^k \\mid 1990^{19911992} + 1992^{19911990}$ is ?",
+        "answer": 1991
+    },
+    {
+        "problem": "Let $a$ and $b$ be positive integers such that $79 \\mid (a + 77b)$ and $77 \\mid (a + 79b)$. Then the smallest possible value of the sum $a + b$ is ?",
+        "answer": 193
+    },
+    {
+        "problem": "Let $a_i, b_i \\ (i=1,2,\\ldots,n)$ be rational numbers such that for any real number $x$, we have $x^2 + x + 4 = \\sum_{i=1}^{n} (a_{i}x + b_{i})^{2}$. Then the minimum possible value of $n$ is ?",
+        "answer": 5
+    },
+    {
+        "problem": "Let $\\alpha$ and $\\beta$ be the two roots of the equation $x^2 - x - 1 = 0$. Define $\\alpha_n = \\frac{\\alpha^n - \\beta^n}{\\alpha - \\beta}$ for $n = 1, 2, \\ldots$. For some positive integers $a$ and $b$, with $a < b$, if for any positive integer $n$, $b$ divides $a_n - 2na^n$, then the sum of all such positive integers $b$ is ?",
+        "answer": 5
+    },
+    {
+        "problem": "Let $n$ be a natural number greater than $3$ such that $1+C_n^1+C_n^2+C_n^3$ divides $2^{2000}$. Then, the sum of all such $n$ satisfying this condition is ?",
+        "answer": 30
+    },
+    {
+        "problem": "In the decimal representation, the product of the digits of $k$ equals $\\frac{25}{8}k-211$. Then the sum of all positive integers $k$ satisfying this condition is ?",
+        "answer": 160
+    },
+    {
+        "problem": "Let $n$ be an integer, and let $p(n)$ denote the product of its digits (in decimal representation). Then the sum of all $n$ such that $10\\:p(n)=n^{2}+4n-2005$ is ?",
+        "answer": 45
+    },
+    {
+        "problem": "There are some positive integers with more than two digits, such that each pair of adjacent digits forms a perfect square. Then the sum of all positive integers satisfying the above conditions is ?",
+        "answer": 97104
+    },
+    {
+        "problem": "Let $\\alpha$ be an integer, and $|\\alpha|\\leq2005$. The number of values of $\\alpha$ that make the system of equations $\\begin{cases}x^{2}=y+\\alpha,\\\\y^{2}=x+\\alpha\\end{cases}$ have integer solutions is ?",
+        "answer": 90
+    },
+    {
+        "problem": "Divide the set $S=\\{1,2,\\cdots,2006\\}$ into two disjoint subsets $A$ and $B$ such that:\n\n(1) $B \\in A$;\n\n(2) If $a\\in A$ and $b\\in B$ with $a+b\\in S$, then $a+b\\in B$;\n\n(3) If $a\\in A$, $b\\in B$, and $a b\\in S$, then $a b\\in A$.\n\nThe number of elements in set $A$ is ?",
+        "answer": 154
+    },
+    {
+        "problem": "Let $S$ be a finite set of integers. Suppose that for any two distinct elements $p, q \\in S$, there exist three elements $a$, $b$, $c \\in S$ (not necessarily distinct, and $a \\neq 0$) such that the polynomial $F(x) = \\alpha x^2 + bx + c$ satisfies $F(p) = F(q) = 0$. The maximum number of elements in $S$ is \\underline{\\hspace{2cm}}",
+        "answer": 3
+    },
+    {
+        "problem": "A natural number whose last four digits are 2002 and is divisible by 2003 has a minimum value of \\_\\_\\_\\_\\_.",
+        "answer": 2672002
+    },
+    {
+        "problem": "The number of positive integer solution in $\\left(x^{2}+2\\right)\\left(y^{2}+3\\right)\\left(z^{2}+4\\right)=60 x y z $ is \\_\\_\\_\\_\\_.",
+        "answer": 8
+    },
+    {
+        "problem": "If p, q, r are prime numbers such that $p+q+r=1000$, then the remainder when $p^{2} q^{2} r^{2}$ is divided by 48 is \\_\\_\\_\\_\\_.",
+        "answer": 48
+    },
+    {
+        "problem": "Given $x, y, z$ are integers, and $10x^{3}+20y^{3}+2006 xyz=2007z^{3}$, then the maximum of $x+y+z$ is \\_\\_\\_\\_\\_.",
+        "answer": 0
+    },
+    {
+        "problem": "For a positive integer $n$, if the first two digits of  $5^{n}$ and $2^{n}$ are the same, denoted as $a$ and $b $ respectively, then the value of the two-digit number $ \\overline{ab}$ is \\_\\_\\_\\_\\_.",
+        "answer": 31
+    },
+    {
+        "problem": "The remainder when $\\frac{2020 \\times 2019 \\times \\cdots \\times 1977}{44!}$ is divided by 2021 is \\_\\_\\_\\_\\_.",
+        "answer": 1975
+    },
+    {
+        "problem": "Given the sequence $\\{a_n\\}: a_1=1, a_{n+1}=\\frac{\\sqrt{3}a_n+1}{\\sqrt{3}-a_n}$, then \n$\\sum\\limits_{n=1}^{2022}a_n=\\_\\_\\_\\_\\_$.",
+        "answer": 0
+    },
+    {
+        "problem": "Given \\(2bx^2 + ax + 1 - b \\geq 0\\) holds for \\(x \\in [-1, 1]\\), find the maximum value of \\(a + b\\).",
+        "answer": 2
+    },
+    {
+        "problem": "Given $f(x)$ and $g(x)$ are two quadratic functions with the coefficient of the quadratic term being 1 for both. If $g(6)=35,\\frac{f(-1)}{g(-1)}=\\frac{f(1)}{g(1)}=\\frac{21}{20}$, then $f(6)=\\_\\_\\_\\_\\_$.",
+        "answer": 35
+    },
+    {
+        "problem": "Given $(n + 1)^{a+1} - n^{a+1} < n a^(a + 1) < n a^{n+1} - (n - 1)^{a+1}\\quad (-1 < a < 0)\n \\textcircled{1}$. Let$x=\\sum\\limits_{k=4}^{106}\\frac{1}{\\sqrt[3]{k}}$, then the integer part of x is \\_\\_\\_\\_\\_.",
+        "answer": 14996
+    },
+    {
+        "problem": "Let $a_1=\\frac{\\pi}{6}, a_n \\in (0,\\frac{\\pi}{2})$, and $\\tan a_{n+1}\\cdot \\cos a_n=1 (n\\geq 1)$. If $\\prod\\limits_{k=1}^m \\sin a_k=\\frac{1}{100}$, then $m=$ \\_\\_\\_\\_\\_.",
+        "answer": 3333
+    },
+    {
+        "problem": "Let $y=f(x)$ be a strictly monotonically increasing function, and let its inverse function be $y=g(x)$. Let \n $x_1, x_2$ be the solutions to the equations $f(x)+x=2$ and $g(x)+x=2$ respectively. Then $x_1+x_2=\\_\\_\\_\\_\\_$.",
+        "answer": 2
+    },
+    {
+        "problem": "Assuming sequence ${F_n}$ satisfying: $F_1=F_2=1, F_{n+1}=F_n+F_{n-1} (n\\geq 2)$. Then the number of sets  of positive integers $(x,y)$ that satisfy $5F_x-3F_y=1$ is",
+        "answer": 3
+    },
+    {
+        "problem": "For some positive integers $n$, there exists a positive integer \n$k\\geq 2$ such that for positive integers $x_1,x_2,...,x_k$ satisfying the given condition, $\\sum\\limits_{i=1}^{k-1}x_ix_{i+1}=n$, $\\sum\\limits_{i=1}^{k}x_i=2019$\nthe number of such positive integers is \\_\\_\\_\\_\\_.",
+        "answer": 1017073
+    },
+    {
+        "problem": "Considering all non-increasing functions $f:\\{1,2,\\cdots,10\\} \\rightarrow \\{1,2,\\cdots,10\\}$, some of these functions have fixed points, while others do not. The difference in the number of these two types of functions is \\_\\_\\_\\_\\_.",
+        "answer": 4862
+    },
+    {
+        "problem": "Given an integer coefficient polynomial $P(x)$ satisfying:\n$P(-1)=-4, P(-3)=-40, P(-5)=-156$. The maximum number of solutions x for $P(P(x))=x^2$ is \\_\\_\\_\\_\\_.",
+        "answer": 0
+    },
+    {
+        "problem": "Given hyperbola $\\Gamma: \\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$ passes the point $M(3,\\sqrt{2})$, line $l$ passes its right focus $F(2,0)$ and cross the right branch of $\\Gamma$ at points $A$ and $B$, and cross the y-axis at point P. If $\\overrightarrow{PA}=m\\overrightarrow{AF}, \\overrightarrow{PB}=n\\overrightarrow{BF}$, then $m+n=$ \\_\\_\\_\\_\\_.",
+        "answer": 6
+    },
+    {
+        "problem": "Let positive real numbers $x_1, x_2, x_3, x_4$ satisfying $x_1x_2+x_2x_3+x_3x_4+x_4x_1=x_1x_3+x_2x_4$. Then the minimum of  $f=\\frac{x_1}{x_2}+\\frac{x_2}{x_3}+\\frac{x_3}{x_4}+\\frac{x_4}{x_1}$ is \\_\\_\\_\\_\\_.",
+        "answer": 8
+    },
+    {
+        "problem": "Let $A=\\{1,2,\\cdots,6\\}$, function $f:A \\rightarrow A$. Mark $p(f)=f(1)\\cdots f(6)$. Then the number of functions that make $p(f)|36$ is \\_\\_\\_\\_\\_.",
+        "answer": 580
+    },
+    {
+        "problem": "The right focus $F_1$ of the ellipse $\\Gamma_1: \\frac{x^2}{24}+\\frac{y^2}{b^2}=1 (0<b<2\\sqrt{6})$ coincides with the focus of the parabola $\\Gamma_2: y^2=4px(p \\in Z_{+})$. The line $l$ passing through \nthe point $F_1$ with a positive integer slope \nintersects the ellipse $\\Gamma_1$ at points A and B, \nand intersects the parabola $\\Gamma_2$ at points C and D. If $13|AB|=\\sqrt{6}|CD|$, then $b^2+p=$ \\_\\_\\_\\_\\_.",
+        "answer": 12
+    },
+    {
+        "problem": "Given that $p(x)$ is a quintic polynomial. If \n$x=0$ is a triple root of $p(x)+1=0$ and $x=1$ is a triple root of $p(x)-1=0$, then the coefficient of the \n$x^3$ term in the expression of $p(x)$ is \\_\\_\\_\\_\\_.",
+        "answer": 20
+    },
+    {
+        "problem": "Set $X=\\{1,2,\\cdots,10\\}$, mapping $f:X\\rightarrow X$ satisfy:\\\\\n(1) $f\\circ f = I_x$, where, $f\\circ f$ is a composite mapping, $I_x$ is an identity mapping on X.\\\\\n(2) $|f(i)-i|=2$, for any $i\\in X$.\\\\\nThen the number of mapping $f$ is \\_\\_\\_\\_\\_.",
+        "answer": 401
+    },
+    {
+        "problem": "Given a integer coefficient polynomial of degree 2022 with leading coefficient is 1, how many roots can it possibly have in the interval (0,1) as maximum?",
+        "answer": 2021
+    },
+    {
+        "problem": "The system of equations $\\left\\{\\begin{array}{l}x^{2} y+y^{2} z+z^{2}=0, \\\\ z^{3}+z^{2} y+z y^{3}+x^{2} y=\\frac{1}{4}\\left(x^{4}+y^{4}\\right)\\end{array}\\right.$ has how many sets of real solution $(x,y,z)$ ?.",
+        "answer": 1
+    },
+    {
+        "problem": "If there are a total of 95 numbers, each of which can take any value in +1 or -1, and it is known that the sum of the pairwise products of these 95 numbers is positive, then what is the minimum possible value of this positive sum?",
+        "answer": 13
+    },
+    {
+        "problem": "A monotonically increasing sequence of positive integers, starting from the third term, with each subsequent term being the sum of the preceding two terms. If its seventh term is 120, then its eighth term is \\_\\_\\_\\_\\_.",
+        "answer": 194
+    },
+    {
+        "problem": "Sequence $\\left\\{a_{n}\\right\\}$ satisfy $a_{0}=0, a_{1}=1$, and for any positive integer $\\mathrm{n}$, we have $a_{2 n}=a_{n^{\\prime}} a_{2 n+1}=a_{n}+1$, then $a_{2024}=$\\_\\_\\_\\_\\_.",
+        "answer": 7
+    },
+    {
+        "problem": "Non-negative real numbers $\\mathrm{x}, \\mathrm{y}, \\mathrm{z}$ satisfy $4 x^{2}+4 y^{2}+z^{2}+2 z=3$, then the minimum of $5 \\mathrm{x}+4 \\mathrm{y}+3 \\mathrm{z}$ is \\_\\_\\_\\_\\_.",
+        "answer": 3
+    },
+    {
+        "problem": "Given set: $A=\\left\\{x+y \\left\\lvert\\, \\frac{x^{2}}{9}+y^{2}=1\\right., x+y \\in \\mathbf{Z}_{+}\\right\\}, B=\\{2 x+y \\mid x, y \\in A, x<y\\}$, $C=\\{2 x+y \\mid x, y \\in A, x>y\\}$. Then the sum of all elements in $B \\cap C$ is",
+        "answer": 12
+    },
+    {
+        "problem": "Given a hyperbola $\\Gamma: \\frac{x^{2}}{7}-\\frac{y^{2}}{5}=1$, a line $l: a x+b y+1=0$ intersects $\\Gamma$ at point $A$. A tangent to $\\Gamma$ drawn through point $A$ is perpendicular to the line $l$. Then $\\frac{7}{a^{2}}-\\frac{5}{b^{2}}=$\\_\\_\\_\\_\\_.",
+        "answer": 144
+    },
+    {
+        "problem": "In the Cartesian coordinate plane $x O y$, point $A(a, 0), B(0, b), C(0,4)$, moving point $D$ satisfies $|C D|=1$. If  the maximum value of $|\\overrightarrow{O A}+\\overrightarrow{O B}+\\overrightarrow{O D}|$ is 6, then the minimum value of $a^{2}+b^{2}$ is \\_\\_\\_\\_\\_.",
+        "answer": 1
+    },
+    {
+        "problem": "A rectangular solid whose length, width, and height are all natural numbers, and the sum of all its edge lengths equals its volume, is called a \"perfect rectangular solid. The maximum value of the volume of a perfect rectangular solid is \\_\\_\\_\\_\\_.",
+        "answer": 120
+    },
+    {
+        "problem": "A person has some $2 \\times 5 \\times 8$ bricks and some $2 \\times 3 \\times 7$ bricks, as well as a $10 \\times 11 \\times 14$ box. All bricks and the box are rectangular prisms. He wants to pack all the bricks into the box so that the bricks can fill the entire box. The number of bricks he can fit into the box is \\_\\_\\_\\_\\_ pieces.",
+        "answer": 24
+    },
+    {
+        "problem": "Let $a$ be an acute angle not exceeding $45^\\circ$. If $\\cot 2a - \\sqrt{3} = \\sec a$, then $a =$ \\_\\_\\_\\_\\_ degrees.",
+        "answer": 10
+    },
+    {
+        "problem": "Known that there is a regular 200-gon $A_{1}A_{2} \\ldots A_{200}$, connecting the diagonals $A_{i}A_{i+9}(\\mathrm{i}=1,2, \\ldots, 200)$, where $A_{i+200}=A_{i}(i=1,2, \\ldots, 9)$. Then there are a total of \\_\\_\\_\\_\\_ distinct intersection points inside the regular 200-gon.",
+        "answer": 1600
+    },
+    {
+        "problem": "A convex $\\mathrm{n}$-gon with interior angles of $\\mathrm{n}$ degrees each, all integers, and all different.\nThe degree measure of the largest interior angle is three times the degree measure of the smallest interior angle. The maximum value that $n$ can take is \\_\\_\\_\\_\\_.",
+        "answer": 20
+    },
+    {
+        "problem": "In triangle $\\mathrm{ABC}$ with its incenter $\\mathrm{I}$, if $3\\overrightarrow{IA} + 4\\overrightarrow{IB} + 5\\overrightarrow{IC} = \\overrightarrow{0}$, then the measure of angle $\\mathrm{C}$ is \\_\\_\\_\\_\\_.",
+        "answer": 90
+    },
+    {
+        "problem": "If each face of a tetrahedron is not an isosceles triangle, then it has at least\\_\\_\\_\\_\\_ distinct edge lengths.",
+        "answer": 3
+    },
+    {
+        "problem": "There are 10 points in the plane, with no three points lying on the same line. Using these 10 points as vertices of triangles, such that any two triangles have at most one common vertex, we can form at most \\_\\_\\_\\_\\_ triangles.",
+        "answer": 13
+    },
+    {
+        "problem": "Given that quadrilateral $ABCD$ is a parallelogram, with the lengths of $AB$, $AC$, $AD$, and $BD$ being distinct integers, then the minimum perimeter of quadrilateral $ABCD$ is \\_\\_\\_\\_\\_.",
+        "answer": 32
+    },
+    {
+        "problem": "When the two ends of a strip of paper are glued together, forming a loop, it is called a circular ring. Cutting along the bisector of the paper strip will result in two circular rings. When a strip of paper is twisted 180 degrees and then the ends are glued together again, forming a loop, it is called a Mobius strip. Cutting along the bisector of the Mobius strip will result in a longer loop-like structure. If cut along the bisector of this longer loop-like structure, it will yield \\_\\_\\_\\_\\_ loop-like structure again.",
+        "answer": 2
+    },
+    {
+        "problem": "Given the circle $\\Gamma: x^{2}+y^{2}=1$, points A and B are two points symmetric about the x-axis on the circle. M is any point on the circle $\\Gamma$ distinct from A and B. If MA and MB intersect the x-axis at points P and Q respectively, then the product of the abscissas of P and Q is \\_\\_\\_\\_\\_.",
+        "answer": 1
+    },
+    {
+        "problem": "A rook piece moves through  each square of a $2023\\times 2023 $ grid paper once, each time moving only one square (i.e., from the current square to an adjacent square). If the squares are numbered from 1 to $n^2$ according to the order in which the rook piece reaches them, let M denote the maximum difference in numbers between adjacent squares. Then the minimum possible value of $M$ is?",
+        "answer": 4045
+    },
+    {
+        "problem": "A six-digit number $N=\\overline{a_1a_2...a_{6}}$ composed of non-repeating digits from 1 to 6 satisfies the condition $|a_{k+1}-a_{k}| \\neq 1, (k\\in \\{1,2, \\cdots, 5\\})$. Then the number of such six-digit numbers is \\_\\_\\_\\_\\_.",
+        "answer": 90
+    },
+    {
+        "problem": "Given $M=\\{1,2, \\ldots, 8\\}, A, B$ are two distincet subsets of set $M$, satisfying\n\n(1) The number of elements in set \\(A\\) is fewer than the number of elements in set \\(B\\).\n\n(2) The smallest element in set \\(A\\) is larger than the largest element in set \\(B\\).\n\nThen the total number of ordered pairs \\((A, B)\\) satisfying these conditions is \\_\\_\\_\\_\\_.",
+        "answer": 321
+    },
+    {
+        "problem": "The king summons two wizards into the palace. He demands Wizard A to write down 100 positive real numbers on cards (allowing duplicates) without revealing them to Wizard B. Then, Wizard B must accurately write down all of these 100 positive real numbers. Otherwise, both wizards will be beheaded. Wizard A is allowed to provide a sequence of numbers to Wizard B, where each number is either one of the 100 positive real numbers or a sum of some of them. However, he cannot tell Wizard B which are the numbers on the cards and which are the sums of numbers on the cards. Ultimately, the king decides to pull off the same number of beards from both wizards based on the count of these numbers. Without the ability to communicate beforehand, the question is: How many beard pulls does each wizard need to endure at least to ensure their own survival?",
+        "answer": 101
+    },
+    {
+        "problem": "Using $1 \\times 1$, $2 \\times 2$, and $3 \\times 3$ tiles to cover a $23 \\times 23$ floor (without overlapping or leaving gaps), what is the minimum number of $1 \\times 1$ tiles needed? (Assuming each tile cannot be divided into smaller tiles).",
+        "answer": 1
+    },
+    {
+        "problem": "In a number-guessing game, the host has prearranged a permutation of the numbers 1 to 100, and participants also need to provide a permutation of these 100 numbers. Interestingly, as long as the permutation provided by a participant has at least one number whose position matches that of the host's permutation, it is considered a successful guess. How many participants are needed to ensure that at least one person guesses correctly?",
+        "answer": 51
+    },
+    {
+        "problem": "There is a stack of 52 face-down playing cards on the table. Mim takes 7 cards from the top of this stack, flips them over, and puts them back at the bottom, calling it one operation. The question is: how many operations are needed at least to make all the playing cards face-down again?",
+        "answer": 112
+    },
+    {
+        "problem": "There are two segments of length $3n (0 \\leq n \\leq 1011)$. How many different shapes of triangles can be formed from these 2024 segments? (Congruent triangles are considered the same.)",
+        "answer": 511566
+    },
+    {
+        "problem": "Let $A$ and $B$ be two subsets of the set $\\{1,2, \\ldots, 20\\}$, where $A \\cap B = \\varnothing$, and if $n \\in A$, then $2n + 2 \\in B$. Let $M(A)$ denote the sum of the elements of $A$. The maximum value of $M(A)$ is:",
+        "answer": 39
+    },
+    {
+        "problem": "Find the smallest integer $k > 2$ such that any partition of $\\{2,3,\\ldots,k\\}$ into two sets must contain at least one set containing $a$, $b$, and $c$ (which are allowed to be the same), satisfying $ab=c$.",
+        "answer": 32
+    },
+    {
+        "problem": "On a plane, there are 2019 points. Drawing circles passing through these points, a drawing method is called \"$k$-good\" if and only if drawing $k$ circles divides the plane into several closed shapes, and there is no closed shape containing two points. Then, find the minimum value of $k$ , it ensures that no matter how these 2019 points are arranged, there always exists a $k$-good drawing method.",
+        "answer": 1010
+    },
+    {
+        "problem": "Let $a_{1}, a_{2}, \\ldots, a_{6}$ be any permutation of $\\{1,2, \\ldots, 6\\}$. If the sum of any three consecutive numbers cannot be divided by 3, then the number of such permutations is \\_\\_\\_\\_\\_.",
+        "answer": 96
+    },
+    {
+        "problem": "Given an integer $n > 2$. Now, there are $n$ people playing a game of \"Passing Numbers\". It is known that some people are friends (friendship is mutual), and each person has at least one friend. The rules of the game are as follows: each person first writes down a positive real number, and the $n$ positive real numbers written by everyone are all different; then, for each person, if he has $k$ friends, he divides the number he wrote by $k$, and tells all his friends the result obtained; finally, each person writes down the sum of all the numbers he hears. The question is: what is the minimum number of times that someone writes down different numbers?",
+        "answer": 2
+    },
+    {
+        "problem": "A restaurant can offer 9 types of appetizers, 9 types of main courses, 9 types of desserts, and 9 types of wines. A company is having a dinner party at this restaurant, and each guest can choose one appetizer, one main course, one dessert, and one type of wine. It is known that any two people's choices of the four dishes are not completely identical, and it is also impossible to find four people on the spot who have three identical choices but differ pairwise in the fourth choice (for example, there are no 9 people who have the same appetizer, main course, and dessert, but differ pairwise in the wine). Then, at most how many guests can there be?",
+        "answer": 5832
+    },
+    {
+        "problem": "Xiao Ming is playing a coin game with three doors. Each time he opens a door, it costs him 2 coins. After opening the first door, he can see the second door. Upon opening the second door, two equally likely options appear: either return to the outside of the first door or proceed to the third door. Upon opening the third door, three equally likely options appear: either return to the outside of the first door, stay in place and need to reopen the third door, or pass the game. If Xiao Ming wants to pass the game, on average, he needs to spend how many coins?",
+        "answer": 22
+    },
+    {
+        "problem": "The school offers 10 elective courses, and each student can enroll in any number of courses. The director selects $k$ students, where although each student's combination of courses is different, any two students have at least one course in common. At this point, it is found that any student outside these $k$ students cannot be classmates with these $k$ students regardless of how they enroll (having one course in common is enough to be classmates). Then $k=$ \\_\\_\\_\\_\\_.",
+        "answer": 512
+    },
+    {
+        "problem": "Let $n$ be a positive integer. Now, a frog starts jumping from the origin of the number line and makes $2^{n}-1$ jumps. The process satisfies the following conditions:\n\n(1) The frog will jump to each point in the set $\\left\\{1,2,3, \\cdots, 2^{n}-1\\right\\}$ exactly once, without missing any.\n\n(2) Each time the frog jumps, it can choose a step length from the set $\\left\\{2^{0}, 2^{1}, 2^{2}, \\cdots\\right\\}$, and it can jump either left or right.\n\nLet $T$ be the reciprocal sum of the step lengths of the frog. When $n=2024$, the minimum value of $T$ is \\_\\_\\_\\_\\_.",
+        "answer": 2024
+    },
+    {
+        "problem": "There are $n$ cards, each labeled with the numbers $1 , 2, \\cdots, n$. These $n$ cards are distributed among 17 people, with each person receiving at least 1 card. Then, there is always one person who receives cards with numbers $x$ and $y$, where $x>y$, and  $118x \\leqslant 119y$. The smallest positive integer $n$ that satisfies this condition is \\_\\_\\_\\_\\_.",
+        "answer": 2023
+    },
+    {
+        "problem": "let $a_{1}, a_{2}, \\cdots, a_{9}$ be a permutation of $1,2, \\cdots, 9$. If the permutation $C=\\left(a_{1}, a_{2}, \\cdots, a_{9}\\right)$ can be obtained from $1,2, \\cdots, 9$, by swapping two elements at most 4 times, the total number of permutations satisfying this condition is \\_\\_\\_\\_\\_.",
+        "answer": 27568
+    },
+    {
+        "problem": "Let sequence $a_{1}, a_{2}, \\cdots, a_{10}$ satisfy $1 \\leqslant a_{1} \\leqslant{l} a_{2} \\leqslant \\cdots \\leqslant a_{10} \\leqslant 40$, $a_{4} \\geqslant6$, and $\\log _{2}\\left(\\left|a_{i}-i\\right|+1\\right) \\in \\mathbf{N}(i=1,2, \\cdots, 10)$ The number of such sequences is \\_\\_\\_\\_\\_.",
+        "answer": 869
+    },
+    {
+        "problem": "A student walks through a hallway with a row of closed lockers numbered from 1 to 1024. He starts by opening locker number 1, then proceeds forward, alternately leaving untouched or opening one closed locker. When he reaches the end of the hallway, he turns around and walks back, opening the first closed locker he encounters. The student continues this back and forth journey until every locker is opened. The number of the last locker he opens is \\_\\_\\_\\_\\_.",
+        "answer": 342
+    },
+    {
+        "problem": "Let $A=\\{-3,-2, \\cdots, 4\\}, a, b, c \\in A$ be distinct elements of A. If the angle of inclination of the line: $a x+b y+c=0$ is acute, then the number of such distinct lines is \\_\\_\\_\\_\\_.",
+        "answer": 91
+    },
+    {
+        "problem": "In a sequence of length 15 consisting of $a$ and $b$, if exactly five \"aa\"s occur and both \"ab\" and \"ba\" and \"bb\" occur exactly three times, there are \\_\\_\\_\\_\\_ such sequences.",
+        "answer": 980
+    },
+    {
+        "problem": "Among the five-digit numbers formed by the digits 1, 2, ..., 6, the number of five-digit numbers satisfying the condition of having at least three different digits and 1 and 6 not being adjacent is \\_\\_\\_\\_\\_.",
+        "answer": 5880
+    },
+    {
+        "problem": "How many numbers can be selected at most from 1 to 100 to ensure that the quotient of the least common multiple and greatest common divisor of any two numbers is not a perfect square?",
+        "answer": 61
+    },
+    {
+        "problem": "From the natural numbers 1 to 100, choose any \\( m \\) numbers such that among these \\( m \\) numbers, there exists one number that can divide the product of the remaining \\( m-1 \\) numbers. The minimum value of \\( m \\) is \\_\\_\\_\\_\\_.",
+        "answer": 26
+    },
+    {
+        "problem": "Several teams are participating in a friendly football match, where any two teams play at most one match against each other. It is known that each team has played 4 matches, and there are no draws. A team is considered a \"weak team\" if it loses at least 2 out of the 4 matches it plays. If there are only 3 \"weak teams\" in this friendly match, then at most how many teams could have participated in the matches?",
+        "answer": 9
+    },
+    {
+        "problem": "In the equation, the same letter represents the same digit, and different letters represent different digits. Then, the four-digit number \\(\\overline{a b c d}\\) is given by:\n\n$$\n(\\overline{a b})^{c} \\times \\overline{a c d}=\\overline{a b c a c d}\n$$",
+        "answer": 3125
+    },
+    {
+        "problem": "Let $n$ be represented as the difference of squares of two nonzero natural numbers, then there are $F(n)$ ways to do so.\n\nFor example, $15=8^{2}-7^{2}=4^{2}-1^{2}$, so $F(15)=2$; whereas 2 cannot be represented, hence $F(2)=0$. Then, the calculation result of $F(1)+F(2)+F(3)+\\cdots+F(100)$ is \\_\\_\\_\\_\\_.",
+        "answer": 116
+    },
+    {
+        "problem": "Evaluate $p(x)=x^{3}+x^{2}-11 x+12$ for $x=2$.",
+        "answer": 2
+    },
+    {
+        "problem": "Suppose that $\\phi:\\mathbb{R}^{3\\times 3}\\to \\mathbb{R}$ is a mapping which satisfies the following properties\n\\begin{enumerate}\n  \\item $\\phi(AB)=\\phi(A)\\phi(B)$ for any $A,B\\in \\mathbb{R}^N.$ and\n  \\item $\\phi(A)=|A|$ for any diagonal matrix $A.$\n\\end{enumerate}\nCompute $\\phi(A)$ for\n\\[A=\\left(\n      \\begin{array}{ccc}\n        2 & 1 & 1 \\\\\n        1 & 2 &1 \\\\\n        1 & 1 & 2 \\\\\n      \\end{array}\n    \\right)\n\\]",
+        "answer": 4
+    },
+    {
+        "problem": "Suppose that $\\psi:\\mathbb{R}^{3\\times 3}\\to \\mathbb{R}$ is a mapping which satisfies the following properties\n\\begin{enumerate}\n  \\item $\\psi(AB)=\\psi(BA)$ for any $A,B\\in \\mathbb{R}^N.$ and\n  \\item $\\psi(A)={\\rm tr}(A)$ for any diagonal matrix $A.$\n\\end{enumerate}\nCompute $\\psi(A)$ for\n\\[A=\\left(\n      \\begin{array}{ccc}\n        1 & 2 & 2 \\\\\n        2 & 1 &2 \\\\\n        2 &2 & 1 \\\\\n      \\end{array}\n    \\right).\n\\]",
+        "answer": 3
+    },
+    {
+        "problem": "Find the integer $a$ such that $x^2-x+a$ is a factor of $x^{13}+x+90$.",
+        "answer": 2
+    },
+    {
+        "problem": "The function $f(x)$ is defined by \n\\[\nf(x)=\\begin{cases}\n|x|^\\alpha\\sin(\\frac{1}{x}), \\ & x\\neq 0,\\\\\n0, \\ & x=0,\n\\end{cases}\n\\]\nwhere $\\alpha$ is a constant. Find the value of $a$ such that for all $\\alpha>a$,  the function $f(x)$ is continuous at $x=0$.",
+        "answer": 0
+    },
+    {
+        "problem": "What is the number of limit cycles for the ODE system $x'(t)=-2x+y-2xy^2$ and $y'(t)=y+x^3-x^2y$?",
+        "answer": 0
+    },
+    {
+        "problem": "Assume $u(t,x,y)$ solves the wave equation $u_{tt}-u_{xx}-u_{yy}=0$ for $t>0,x,y\\in\\mathbb{R}$ with initial data $u(0,x,y)=0$ and $u_t(0,x,y)=g(x,y)$ where $g(x,y)$ is a compactly supported smooth function. Find the limit $\\lim\\limits_{t\\to+\\infty}t^{1/4}|u(t,x,y)|$ if it exists.",
+        "answer": 0
+    },
+    {
+        "problem": "A club with 30 members wants to have a 3-person governing board (president, treature, secretary). In how many ways can this board be chosen if Alex and Jerry don\u2019t want to serve together?",
+        "answer": 24192
+    },
+    {
+        "problem": "Three random variables $X, Y, Z$ are independent, and their moment generating functions are:\n    $$M_X(t) = (1-3t)^{-2.5}, M_Y(t) = (1-3t)^{-4}, M_Z(t) = (1-3t)^{-3.5}.$$\n    Let $T=X+Y+Z$. Calculate $\\mathbb{E}[T^4]$.",
+        "answer": 1389960
+    }
+]
