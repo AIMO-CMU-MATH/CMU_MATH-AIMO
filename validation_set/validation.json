@@ -1,0 +1,202 @@
+[
+    {
+        "problem": "In some countries, automobile fuel efficiency is measured in liters per $100$ kilometers while other countries use miles per gallon. Suppose that 1 kilometer equals $m$ miles, and $1$ gallon equals $l$ liters. Which of the following gives the fuel efficiency in liters per $100$ kilometers for a car that gets $x$ miles per gallon?",
+        "answer": 100
+    },
+    {
+        "problem": "Suppose that $(u_n)$ is a sequence of real numbers satifying $u_{n+2}=2u_{n+1}+u_n$\nand that $u_3=9$ and $u_6=128$ . What is $u_5$",
+        "answer": 53
+    },
+    {
+        "problem": "The sum of an infinite geometric series is a positive number $S$ , and the second term in the series is $1$ . What is the smallest possible value of $S?$",
+        "answer": 4
+    },
+    {
+        "problem": "Let $w_1$ and $w_2$ denote the circles $x^2+y^2+10x-24y-87=0$ and $x^2 +y^2-10x-24y+153=0,$ respectively. Let $m$ be the smallest positive value of $a$ for which the line $y=ax$ contains the center of a circle that is externally tangent to $w_2$ and internally tangent to $w_1.$ Given that $m^2=\\frac pq,$ where $p$ and $q$ are relatively prime integers, find $p+q.$",
+        "answer": 169
+    },
+    {
+        "problem": "Let the `sparkle' operation on positive integer $n$ consist of calculating the sum of the digits of $n$ and taking its factorial, e.g. the sparkle of 13 is $4! = 24$. A robot starts with a positive integer on a blackboard, then after each second for the rest of eternity, replaces the number on the board with its sparkle. For some `special' numbers, if they're the first number, then eventually every number that appears will be less than 6. How many such special numbers are there with at most 36 digits?",
+        "answer": 702
+    },
+    {
+        "problem": "What is $100(100-3)-(100\\cdot100-3)$",
+        "answer": 297
+    },
+    {
+        "problem": "Two distinct, real, infinite geometric series each have a sum of $1$ and have the same second term. The third term of one of the series is $1/8$ , and the second term of both series can be written in the form $\\frac{\\sqrt{m}-n}p$ , where $m$ $n$ , and $p$ are positive integers and $m$ is not divisible by the square of any prime. Find $100m+10n+p$",
+        "answer": 518
+    },
+    {
+        "problem": "Let $a$ be an acute angle not exceeding $45^\\circ$. If $\\cot 2a - \\sqrt{3} = \\sec a$, then $a =$ \\_\\_\\_\\_\\_ degrees.",
+        "answer": 10
+    },
+    {
+        "problem": "A right circular cone has base radius $r$ and height $h$ .  The cone lies on its side on a flat table.  As the cone rolls on the surface of the table without slipping, the point where the cone's base meets the table traces a circular arc centered  at the point where the vertex touches the table.  The cone first returns to its original position on the table after making $17$ complete rotations.  The value of $h/r$ can be written in the form $m\\sqrt {n}$ , where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime.  Find $m + n$",
+        "answer": 14
+    },
+    {
+        "problem": "Suppose that $a$ $b$ $c$ and $d$ are positive integers satisfying all of the following relations.\n\\[abcd=2^6\\cdot 3^9\\cdot 5^7\\] \\[\\text{lcm}(a,b)=2^3\\cdot 3^2\\cdot 5^3\\] \\[\\text{lcm}(a,c)=2^3\\cdot 3^3\\cdot 5^3\\] \\[\\text{lcm}(a,d)=2^3\\cdot 3^3\\cdot 5^3\\] \\[\\text{lcm}(b,c)=2^1\\cdot 3^3\\cdot 5^2\\] \\[\\text{lcm}(b,d)=2^2\\cdot 3^3\\cdot 5^2\\] \\[\\text{lcm}(c,d)=2^2\\cdot 3^3\\cdot 5^2\\]\nWhat is $\\text{gcd}(a,b,c,d)$",
+        "answer": 3
+    },
+    {
+        "problem": "A function $f: \\mathbb N \\to \\mathbb N$ satisfies the following two conditions for all positive integers $n$:$f(f(f(n)))=8n-7$ and $f(2n)=2f(n)+1$. Calculate $f(100)$.",
+        "answer": 199
+    },
+    {
+        "problem": "Let $a$ and $b$ be relatively prime positive integers with $a>b>0$ and $\\dfrac{a^3-b^3}{(a-b)^3} = \\dfrac{73}{3}$ . What is $a-b$",
+        "answer": 3
+    },
+    {
+        "problem": "Monic quadratic polynomial $P(x)$ and $Q(x)$ have the property that $P(Q(x))$ has zeros at $x=-23, -21, -17,$ and $-15$ , and $Q(P(x))$ has zeros at $x=-59,-57,-51$ and $-49$ . What is the sum of the minimum values of $P(x)$ and $Q(x)$",
+        "answer": 100
+    },
+    {
+        "problem": "What is the minimum value of $5x^2+5y^2-8xy$ when $x$ and $y$ range over all real numbers such that $|x-2y| + |y-2x| = 40$?",
+        "answer": 800
+    },
+    {
+        "problem": "The function $f(x)$ is defined by \n\\[\nf(x)=\\begin{cases}\n|x|^\\alpha\\sin(\\frac{1}{x}), \\ & x\\neq 0,\\\\\n0, \\ & x=0,\n\\end{cases}\n\\]\nwhere $\\alpha$ is a constant. Find the value of $a$ such that for all $\\alpha>a$,  the function $f(x)$ is continuous at $x=0$.",
+        "answer": 0
+    },
+    {
+        "problem": "What is the product of all real numbers $x$ such that the distance on the number line between $\\log_6x$ and $\\log_69$ is twice the distance on the number line between $\\log_610$ and $1$",
+        "answer": 81
+    },
+    {
+        "problem": "Trapezoid $ABCD$ has $\\overline{AB}\\parallel\\overline{CD},BC=CD=43$ , and $\\overline{AD}\\perp\\overline{BD}$ . Let $O$ be the intersection of the diagonals $\\overline{AC}$ and $\\overline{BD}$ , and let $P$ be the midpoint of $\\overline{BD}$ . Given that $OP=11$ , the length of $AD$ can be written in the form $m\\sqrt{n}$ , where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. What is $m+n$",
+        "answer": 194
+    },
+    {
+        "problem": "What is the sum of all the solutions of $x = \\left|2x-|60-2x|\\right|$",
+        "answer": 92
+    },
+    {
+        "problem": "The system of equations $\\left\\{\\begin{array}{l}x^{2} y+y^{2} z+z^{2}=0, \\\\ z^{3}+z^{2} y+z y^{3}+x^{2} y=\\frac{1}{4}\\left(x^{4}+y^{4}\\right)\\end{array}\\right.$ has how many sets of real solution $(x,y,z)$ ?.",
+        "answer": 1
+    },
+    {
+        "problem": "Let $\\alpha$ be an integer, and $|\\alpha|\\leq2005$. The number of values of $\\alpha$ that make the system of equations $\\begin{cases}x^{2}=y+\\alpha,\\\\y^{2}=x+\\alpha\\end{cases}$ have integer solutions is ?",
+        "answer": 90
+    },
+    {
+        "problem": "Let $a + ar_1 + ar_1^2 + ar_1^3 + \\cdots$ and $a + ar_2 + ar_2^2 + ar_2^3 + \\cdots$ be two different infinite geometric series of positive numbers with the same first term.  The sum of the first series is $r_1$ , and the sum of the second series is $r_2$ .  What is $r_1 + r_2$",
+        "answer": 1
+    },
+    {
+        "problem": "In triangle $\\mathrm{ABC}$ with its incenter $\\mathrm{I}$, if $3\\overrightarrow{IA} + 4\\overrightarrow{IB} + 5\\overrightarrow{IC} = \\overrightarrow{0}$, then the measure of angle $\\mathrm{C}$ is \\_\\_\\_\\_\\_.",
+        "answer": 90
+    },
+    {
+        "problem": "The points $\\left(x, y\\right)$ satisfying $((\\vert x + y \\vert - 10)^2 + ( \\vert x - y \\vert - 10)^2)((\\vert x \\vert - 8)^2 + ( \\vert y \\vert - 8)^2) = 0$ enclose a convex polygon. What is the area of this convex polygon?",
+        "answer": 320
+    },
+    {
+        "problem": "There exists a unique increasing geometric sequence of five 2-digit positive integers. What is their sum?",
+        "answer": 211
+    },
+    {
+        "problem": "Let $p$ be a real number. If all three roots of the cubic equation $5x^3 - 5(p+1)x^2 + (71p - 1)x + 1 = 66p$ are natural numbers, then the sum of all possible values of $p$ is ?",
+        "answer": 76
+    },
+    {
+        "problem": "Each morning of her five-day workweek, Jane bought either a $50$ -cent muffin or a $75$ -cent bagel. Her total cost for the week was a whole number of dollars. How many bagels did she buy?",
+        "answer": 2
+    },
+    {
+        "problem": "For $t = 1, 2, 3, 4$ , define $S_t = \\sum_{i = 1}^{350}a_i^t$ , where $a_i \\in \\{1,2,3,4\\}$ . If $S_1 = 513$ and $S_4 = 4745$ , find the minimum possible value for $S_2$",
+        "answer": 905
+    },
+    {
+        "problem": "Al walks down to the bottom of an escalator that is moving up and he counts 150 steps. His friend, Bob, walks up to the top of the escalator and counts 75 steps. If Al's speed of walking (in steps per unit time) is three times Bob's walking speed, how many steps are visible on the escalator at a given time? (Assume that this value is constant.)",
+        "answer": 120
+    },
+    {
+        "problem": "Two noncongruent integer-sided isosceles triangles have the same perimeter and the same area. The ratio of the lengths of the bases of the two triangles is $8: 7$ . Find the minimum possible value of their common perimeter.",
+        "answer": 676
+    },
+    {
+        "problem": "Define $x\\diamond y$ to be $|x-y|$ for all real numbers $x$ and $y.$ What is the value of \\[(1\\diamond(2\\diamond3))-((1\\diamond2)\\diamond3)?\\]",
+        "answer": 2
+    },
+    {
+        "problem": "A student council must select a two-person welcoming committee and a three-person planning committee from among its members. There are exactly $10$ ways to select a two-person team for the welcoming committee. It is possible for students to serve on both committees. In how many different ways can a three-person planning committee be selected?",
+        "answer": 10
+    },
+    {
+        "problem": "Let $k, l > 0$ be parameters. The parabola $y = kx^2 - 2kx + l$ intersects the line $y = 4$ at two points $A$ and $B$. These points are distance 6 apart. What is the sum of the squares of the distances from $A$ and $B$ to the origin?",
+        "answer": 52
+    },
+    {
+        "problem": "There are 3 numbers A, B, and C, such that $1001C - 2002A = 4004$ , and $1001B + 3003A = 5005$ . What is the average of A, B, and C?",
+        "answer": 3
+    },
+    {
+        "problem": "Let $\\omega\\neq 1$ be a 13th root of unity. Find the remainder when \\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\] is divided by 1000.",
+        "answer": 321
+    },
+    {
+        "problem": "Suppose that we roll four 6-sided fair dice with faces numbered 1 to~6. Let $a/b$ be the probability that the highest roll is a 5, where $a$ and $b$ are relatively prime positive integers. Find $a + b$.",
+        "answer": 185
+    },
+    {
+        "problem": "Let $a$ $b$ , and $c$ be positive integers with $a\\ge$ $b\\ge$ $c$ such that $a^2-b^2-c^2+ab=2011$ and $a^2+3b^2+3c^2-3ab-2ac-2bc=-1997$\nWhat is $a$",
+        "answer": 253
+    },
+    {
+        "problem": "Find the value(s) of $x$ such that $8xy - 12y + 2x - 3 = 0$ is true for all values of $y$",
+        "answer": 32
+    },
+    {
+        "problem": "Two unit squares are selected at random without replacement from an $n \\times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\\frac{1}{2015}$",
+        "answer": 90
+    },
+    {
+        "problem": "Let $a$ $b$ , and $c$ be real numbers such that $a-7b+8c=4$ and $8a+4b-c=7$ . Then $a^2-b^2+c^2$ is",
+        "answer": 1
+    },
+    {
+        "problem": "Let $a$ and $b$ be positive integers such that $79 \\mid (a + 77b)$ and $77 \\mid (a + 79b)$. Then the smallest possible value of the sum $a + b$ is ?",
+        "answer": 193
+    },
+    {
+        "problem": "The product $N$ of three positive integers is $6$ times their sum , and one of the integers is the sum of the other two. Find the sum of all possible values of $N$",
+        "answer": 336
+    },
+    {
+        "problem": "Let $ABCD$ be a unit square. Let $P$ be the point on $AB$ such that $|AP| = 1/{20}$ and let $Q$ be the point on $AD$ such that $|AQ| = 1/{24}$. The lines $DP$ and $BQ$ divide the square into four regions. Find the ratio between the areas of the largest region and the smallest region.",
+        "answer": 480
+    },
+    {
+        "problem": "Each of the three-digits numbers $111$ to $999$ is coloured blue or yellow in such a way that the sum of any two (not necessarily different) yellow numbers is equal to a blue number. What is the maximum possible number of yellow numbers there can be?",
+        "answer": 250
+    },
+    {
+        "problem": "Given the sequence $\\{a_n\\}: a_1=1, a_{n+1}=\\frac{\\sqrt{3}a_n+1}{\\sqrt{3}-a_n}$, then \n$\\sum\\limits_{n=1}^{2022}a_n=\\_\\_\\_\\_\\_$.",
+        "answer": 0
+    },
+    {
+        "problem": "For how many positive integers $m$ does the equation \\[\\vert \\vert x-1 \\vert -2 \\vert=\\frac{m}{100}\\] have $4$ distinct solutions?",
+        "answer": 199
+    },
+    {
+        "problem": "Define binary operations $\\diamondsuit$ and $\\heartsuit$ by \\[a \\, \\diamondsuit \\, b = a^{\\log_{7}(b)} \\qquad \\text{and} \\qquad a  \\, \\heartsuit \\, b = a^{\\frac{1}{\\log_{7}(b)}}\\] for all real numbers $a$ and $b$ for which these expressions are defined. The sequence $(a_n)$ is defined recursively by $a_3 = 3\\, \\heartsuit\\, 2$ and \\[a_n = (n\\, \\heartsuit\\, (n-1)) \\,\\diamondsuit\\, a_{n-1}\\] for all integers $n \\geq 4$ . To the nearest integer, what is $\\log_{7}(a_{2019})$",
+        "answer": 11
+    },
+    {
+        "problem": "Real numbers $x$ $y$ , and $z$ are chosen independently and at random from the interval $[0,n]$ for some positive integer $n$ . The probability that no two of $x$ $y$ , and $z$ are within 1 unit of each other is greater than $\\frac {1}{2}$ . What is the smallest possible value of $n$",
+        "answer": 10
+    },
+    {
+        "problem": "In the Cartesian coordinate plane $x O y$, point $A(a, 0), B(0, b), C(0,4)$, moving point $D$ satisfies $|C D|=1$. If  the maximum value of $|\\overrightarrow{O A}+\\overrightarrow{O B}+\\overrightarrow{O D}|$ is 6, then the minimum value of $a^{2}+b^{2}$ is \\_\\_\\_\\_\\_.",
+        "answer": 1
+    },
+    {
+        "problem": "Several teams are participating in a friendly football match, where any two teams play at most one match against each other. It is known that each team has played 4 matches, and there are no draws. A team is considered a \"weak team\" if it loses at least 2 out of the 4 matches it plays. If there are only 3 \"weak teams\" in this friendly match, then at most how many teams could have participated in the matches?",
+        "answer": 9
+    },
+    {
+        "problem": "A 100 foot long moving walkway moves at a constant rate of 6 feet per second.  Al steps onto the start of the walkway and stands.  Bob steps onto the start of the walkway two seconds later and strolls forward along the walkway at a constant rate of 4 feet per second.  Two seconds after that, Cy reaches the start of the walkway and walks briskly forward beside the walkway at a constant rate of 8 feet per second.  At a certain time, one of these three persons is exactly halfway between the other two.  At that time, find the distance in feet between the start of the walkway and the middle person.",
+        "answer": 52
+    }
+]
