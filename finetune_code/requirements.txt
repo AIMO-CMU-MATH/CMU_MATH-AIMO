@@ -1,0 +1,8 @@
+torch
+sentencepiece
+requests
+huggingface_hub
+einops
+wandb
+datasets
+transformers
